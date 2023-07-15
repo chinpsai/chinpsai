@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chin 曾炳胜
 - 👀  SG 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on EI license report app
+- 💞️ I’m looking to collaborate on EI license report apps
 - 📫 How to reach me chinps.upis@gmail.com
 
 <!---
