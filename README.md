@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @chinpsai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Chin 曾炳胜
+- 👀  SG 
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on EI license report app
+- 📫 How to reach me chinps.upis@gmail.com
 
 <!---
 chinpsai/chinpsai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
