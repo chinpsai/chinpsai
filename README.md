@@ -2,7 +2,7 @@
 - 👀  SG 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on EI license report apps
-- 📫 How to reach me chinps.upis@gmail.com
+- 📫 
 
 <!---
 chinpsai/chinpsai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
